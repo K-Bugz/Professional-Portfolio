@@ -145,6 +145,63 @@ header nav a{
   }
 
 
+
+  /* Portfolio style */
+  .portfolio-row {
+    display: flex;
+    align-items: space-between;
+    background-color: var(--color1);
+    border: 0.5rem outset var(--color2);
+  }
+  .program-run {
+    margin: 20px;
+    flex: 1;
+    color: var(--color1);
+    background-color: var(--outline);
+    border-radius: 10px;
+    background-image: url('../images/runbuddy.jpg');
+    font-size: 120%;
+    height: 260px;
+    width: 400px;
+    color: yellow;
+  }
+  .program-run:hover{
+    margin: 20px;
+    flex: 1;
+    color: var(--color1);
+    background-color: var(--outline);
+    border-radius: 10px;
+    background-image: url('../images/runbuddy.jpg');
+    font-size: 777%;
+    height: 266px;
+    width: 450px;
+    color: yellow;
+  }
+  .program-robot {
+    margin: 20px;
+    flex: 1;
+    color: var(--color1);
+    background-color: var(--outline);
+    border-radius: 10px;
+    background-image: url('../images/robot.jpg');
+    font-size: 120%;
+    height: 260px;
+    width: 400px;
+    color: yellow;
+  }
+  .program-robot:hover {
+    margin: 20px;
+    flex: 1;
+    color: var(--color1);
+    background-color: var(--outline);
+    border-radius: 10px;
+    background-image: url('../images/robot.jpg');
+    font-size: 777%;
+    height: 266px;
+    width: 450px;
+    color: yellow;
+  }
+
   /* Contact me style */
 .contact-me-row {
     display: flex;
