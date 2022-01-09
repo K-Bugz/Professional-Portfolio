@@ -11,8 +11,8 @@ This is a showcase of my skills and knowledge I have acquired. My portfolio is c
 
 <!-- Links to your social media accounts -->
 ## Contact Me
-[1]: kbugusky@gmail.com
-[2]: https://www.linkedin.com/in/kevinbugusky333454/
+1 kbugusky@gmail.com
+2 https://www.linkedin.com/in/kevinbugusky333454/
 
 https://github.com/K-Bugz/Professional-Portfolio
 
