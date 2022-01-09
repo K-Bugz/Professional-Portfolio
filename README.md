@@ -1,8 +1,6 @@
 # Professional Portfolio
 
-### As a developer<br>
-### I want to create a portfolio<br>
-### so that I can show my skills and knowledge to the future employers. 
+### As a developer,  I want to create a portfolio so that I can show my skills and knowledge to the future employers. 
 
 ## Description
 
