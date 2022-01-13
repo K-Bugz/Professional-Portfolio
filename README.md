@@ -6,8 +6,8 @@
 
 This is a showcase of my skills and knowledge I have acquired. My portfolio is created using ReactJS and deployed to the gh-pages.
 
-![picture of deployed site](images/rmIMG1.png)
-![picture of deployed site](images/rmIMG2.png)
+![picture of deployed site](assets/images/rmIMG1.png)
+![picture of deployed site](assets/images/rmIMG2.png)
 
 <!-- Links to your social media accounts -->
 ## Contact Me
