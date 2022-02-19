@@ -13,7 +13,7 @@ This is a showcase of my skills and knowledge I have acquired. My portfolio is c
 ## Contact Me
 Email: kbugusky@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/kevinbugusky333454/ <br>
-GitHub: https://github.com/K-Bugz/Professional-Portfolio
+GitHub Deployed: https://k-bugz.github.io/Professional-Portfolio/
 
 ## Other 
 
