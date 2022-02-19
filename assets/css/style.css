@@ -201,6 +201,32 @@ header nav a{
     width: 450px;
     color: yellow;
   }
+.GOATScale{
+  margin: 20px;
+  flex: 1;
+  color: var(--color1);
+  background-color: var(--outline);
+  border-radius: 10px;
+  background-image: url('../images/heroLand.png');
+  background-position: center;
+  font-size: 1%;
+  height: 260px;
+  width: 400px;
+  color: yellow;
+}
+.GOATScale:hover {
+  margin: 20px;
+  flex: 1;
+  color: var(--color1);
+  background-color: var(--outline);
+  border-radius: 10px;
+  background-image: url('../images/heroLand.png');
+  background-position: center;
+  font-size: 666%;
+  height: 266px;
+  width: 450px;
+  color: yellow;
+}
 
   /* Contact me style */
 .contact-me-row {
